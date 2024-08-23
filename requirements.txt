@@ -1,0 +1,12 @@
+matplotlib==3.1.2
+numpy==1.21.6
+opencv_python==4.1.2.30
+Pillow==8.2.0
+Pillow==10.4.0
+scipy==1.2.1
+streamlit==1.23.1
+thop==0.1.1.post2209072238
+torch
+torchsummary
+torchvision
+tqdm==4.60.0
